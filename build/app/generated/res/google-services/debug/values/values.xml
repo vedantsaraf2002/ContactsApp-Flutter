@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">939025308589-r9nh6r0c0ui7a5640bmlojmfhtseifeu.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://flutterbootcamp-fc16a-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">939025308589</string>
+    <string name="google_api_key" translatable="false">AIzaSyAd7ybyNySQWLnZrbH-Ju5Z6Ne1SkHpIZY</string>
+    <string name="google_app_id" translatable="false">1:939025308589:android:3a46b96685b7b740271f24</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAd7ybyNySQWLnZrbH-Ju5Z6Ne1SkHpIZY</string>
+    <string name="google_storage_bucket" translatable="false">flutterbootcamp-fc16a.appspot.com</string>
+    <string name="project_id" translatable="false">flutterbootcamp-fc16a</string>
+</resources>
